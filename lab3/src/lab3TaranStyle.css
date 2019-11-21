@@ -1,0 +1,21 @@
+.image {
+  width: 500px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.button-container {
+  max-width: 500px;
+}
+
+.input-form {
+  max-width: 500px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

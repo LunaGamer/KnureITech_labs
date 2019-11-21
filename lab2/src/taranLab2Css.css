@@ -1,0 +1,15 @@
+.square {
+  background-color: #010066;
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.custom-list {
+  list-style-image: url("./icons8-пример-24.png ");
+}
+
+#list-first {
+  position: absolute;
+}
